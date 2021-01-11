@@ -83,7 +83,7 @@ Report
     <h1>Kmom10</h1>
     <p>Read about kmom10...</p>
     <div class="button-box">
-        <a class="button" href="#" aria-label="kmom-buttons">
+        <a class="button" href="report/kmom10" aria-label="kmom-buttons">
             <span class="arrow">
                 <i class="fas fa-arrow-right fa-2x"></i>
             </span>
